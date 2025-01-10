@@ -5,11 +5,10 @@ export default function Home(){
         <>
             <div className="homepage">
                 <div className="hero">
-                    <h1>Welcome to Our Promo Site</h1>
-                    <p>Discover amazing products and services. </p>
-                    <button>Learn More</button>
+                    <h1>GARAEV ARSLAN</h1>
+                    <p>PROGRAMMER</p>
                 </div>
-                <div className="featured-products">
+                <div className="Portfolio">
                     
                 </div>
             </div>
